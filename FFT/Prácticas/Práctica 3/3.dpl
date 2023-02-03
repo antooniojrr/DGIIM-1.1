@@ -1,0 +1,25 @@
+<Qucs Schematic 0.0.19>
+<Properties>
+  <View=0,-360,800,1704,1,0,60>
+  <Grid=10,10,0>
+  <DataSet=3.dat>
+  <DataDisplay=3.sch>
+  <OpenDisplay=1>
+  <Script=3.m>
+  <RunScript=0>
+  <showFrame=0>
+  <FrameText0=Título>
+  <FrameText1=Dibujado por:>
+  <FrameText2=Fecha:>
+  <FrameText3=Revisión:>
+</Properties>
+<Symbol>
+</Symbol>
+<Components>
+</Components>
+<Wires>
+</Wires>
+<Diagrams>
+</Diagrams>
+<Paintings>
+</Paintings>
